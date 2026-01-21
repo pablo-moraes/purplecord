@@ -1,2 +1,2 @@
-# purplecord-notification
- A discord bot to send notification in discord about streams who are in live.
+# purplecord
+ A discord dashboard for managing stream notifications in your discord server when a channel goes live.
